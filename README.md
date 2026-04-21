@@ -347,7 +347,7 @@
 
     <div class="container">
         <section id="destinations">
-            <h2 style="color: var(--primary-color); margin-bottom: 1rem;">🌍 Популярные направления</h2>
+            <h2 style="color: var(--primary-color); margin-bottom: 1rem;">Популярные направления</h2>
             <div class="grid-destinations">
                 <article class="card">
                     <img src="https://avatars.mds.yandex.net/i?id=beb39e3fa7949d9e550bc3098873b494_l-5231332-images-thumbs&n=13" alt="Пляж с бирюзовой водой" loading="lazy">
@@ -360,7 +360,7 @@
                 <article class="card">
                     <img src="https://i.pinimg.com/originals/56/fc/fb/56fcfb804e829afd4070b093ff9c0f50.jpg" alt="Горы и альпийские луга" loading="lazy">
                     <div class="card-content">
-                        <h3>Швейцарские Альпы</h3>
+                        <h3>Альпы</h3>
                         <p>Горные вершины, свежий воздух и незабываемые тропы.</p>
                         <span><strong>от 200 000р</strong></span>
                     </div>
@@ -402,7 +402,6 @@
             </div>
         </section>
 
-        <!-- Форма подписки с валидацией и псевдоклассами -->
         <section id="subscribe" class="subscribe-section">
             <h3> Получайте горячие предложения</h3>
             <form action="#" method="post" class="form-group">
